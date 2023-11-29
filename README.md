@@ -1,16 +1,11 @@
 # bank_app
 
-A new Flutter project.
+Flutter UI for money management.
 
-## Getting Started
+Simple three pages, home, login and register. In future i will add connecting to database.
 
-This project is a starting point for a Flutter application.
+![Screenshot_1701256501](https://github.com/poteznyszymon/Flutter_bankapp_loginregister_page/assets/77408864/4d6fd8d9-7fc6-4323-91fd-fa5cf89ab1f8)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1701256527](https://github.com/poteznyszymon/Flutter_bankapp_loginregister_page/assets/77408864/113de067-f8ac-4b5f-99f2-09785cafe820)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1701256530](https://github.com/poteznyszymon/Flutter_bankapp_loginregister_page/assets/77408864/20025fdd-33c8-409d-a6d7-a4cb9c83bb0f)
